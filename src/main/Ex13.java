@@ -12,9 +12,10 @@ public class Ex13 {
 
 		// File: 파일 정보를 담는 클래스 (활용도가 제일 높음!)
 		// 파일의 경로, 크기 등 정보를 확인하거나 파일을 생성할 수 있음
-
+//		String path = System.getProperty("user.dir");
 		// newFile.txt와 연결된 파일 클래스 생성
-		File file = new File("C:\\Users\\imjiyeon\\newFile.txt"); // 본인 파일 경로를 작성할 것
+		
+		File file = new File("C:\\sangmin\\newFile.txt"); // 본인 파일 경로를 작성할 것
 
 		try {
 			// 실제 파일 생성
@@ -35,7 +36,7 @@ public class Ex13 {
 		// 파일 삭제
 		file.delete();
 
-		File dir = new File("C:\\Users\\imjiyeon"); // 본인 폴더 경로를 작성할 것
+		File dir = new File("C:\\Users\\G201\\Downloads"); // 본인 폴더 경로를 작성할 것
 
 		// 폴더 밑에 있는 파일 목록
 		File[] files = dir.listFiles();

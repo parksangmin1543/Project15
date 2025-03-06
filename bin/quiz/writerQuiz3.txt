@@ -1,0 +1,104 @@
+101_엑셀.zip
+101_한글(MS워드).zip
+2024년 12월 28일 GTQ(포토샵) 기출문제.zip
+2024년 8월 24일 GTQ(포토샵) 기출문제
+	1급 A유형(1교시)
+		문제파일
+			G08-1A.pdf
+		소스파일
+			1급-1.jpg
+			1급-10.jpg
+			1급-11.jpg
+			1급-12.jpg
+			1급-13.jpg
+			1급-14.jpg
+			1급-15.jpg
+			1급-16.jpg
+			1급-17.jpg
+			1급-2.jpg
+			1급-3.jpg
+			1급-4.jpg
+			1급-5.jpg
+			1급-6.jpg
+			1급-7.jpg
+			1급-8.jpg
+			1급-9.jpg
+	1급 B유형(2교시)
+		문제파일
+			G08-1B.pdf
+		소스파일
+			1급-1.jpg
+			1급-10.jpg
+			1급-11.jpg
+			1급-12.jpg
+			1급-13.jpg
+			1급-14.jpg
+			1급-15.jpg
+			1급-16.jpg
+			1급-17.jpg
+			1급-2.jpg
+			1급-3.jpg
+			1급-4.jpg
+			1급-5.jpg
+			1급-6.jpg
+			1급-7.jpg
+			1급-8.jpg
+			1급-9.jpg
+	2급 A유형(1교시)
+		문제파일
+			G08-2A.pdf
+		소스파일
+			2급-1.jpg
+			2급-10.jpg
+			2급-11.jpg
+			2급-12.jpg
+			2급-13.jpg
+			2급-2.jpg
+			2급-3.jpg
+			2급-4.jpg
+			2급-5.jpg
+			2급-6.jpg
+			2급-7.jpg
+			2급-8.jpg
+			2급-9.jpg
+	2급 B유형(2교시)
+		문제파일
+			G08-2B.pdf
+		소스파일
+			2급-1.jpg
+			2급-10.jpg
+			2급-11.jpg
+			2급-12.jpg
+			2급-13.jpg
+			2급-2.jpg
+			2급-3.jpg
+			2급-4.jpg
+			2급-5.jpg
+			2급-6.jpg
+			2급-7.jpg
+			2급-8.jpg
+			2급-9.jpg
+	3급 B유형(2교시)
+		문제파일
+			G08-3B.pdf
+		소스파일
+			3급-1.jpg
+			3급-2.jpg
+			3급-3.jpg
+			3급-4.jpg
+			3급-5.jpg
+2024년 8월 24일 GTQ(포토샵) 기출문제.zip
+2급 B형 소스.xlsx
+astx_setup.exe
+desktop.ini
+GmarketSansOTF
+	GmarketSansBold.otf
+	GmarketSansLight.otf
+	GmarketSansMedium.otf
+GmarketSansOTF (2)
+	GmarketSansBold.otf
+	GmarketSansLight.otf
+	GmarketSansMedium.otf
+GmarketSansOTF.zip
+소스파일.zip
+컴퓨터활용능력_2급_실기_평가[2].xlsx
